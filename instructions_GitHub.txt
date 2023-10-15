@@ -1,0 +1,17 @@
+mkdir nom-du-repertoire
+
+cd nom-du-repertoire
+
+
+git init
+
+
+git add .
+
+
+git commit -m "Mon premier commit"
+
+
+git remote add origin https://github.com/votre-nom-d-utilisateur/nom-de-votre-repo.git
+
+git push -u origin master
